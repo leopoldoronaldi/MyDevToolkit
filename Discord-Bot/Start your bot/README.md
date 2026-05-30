@@ -19,4 +19,4 @@ This folder contains a minimal, production-ready template for a Discord bot usin
 Open `main.py` and set your `TOKEN` in the designated line.
 3. **Execution:**
    ```bash
-python main.py
+   python main.py
