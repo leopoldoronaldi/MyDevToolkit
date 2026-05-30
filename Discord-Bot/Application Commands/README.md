@@ -1,6 +1,5 @@
-# MyDevToolkit - Documentation
+# Application Commands
 
-## Navigation
 * [Overview](#overview)
 * [Discord Bot Templates](#discord-bot-templates)
 * [Roblox Utilities](#roblox-utilities)
